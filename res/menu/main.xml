@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/osustandard" android:title="@string/osustandard"></item>
+    <item android:id="@+id/taiko" android:title="@string/taiko"></item>
+    <item android:id="@+id/catchbeat" android:title="@string/catchbeat"></item>
+    <item android:id="@+id/mania" android:title="@string/mania"></item>
+    <item android:id="@+id/settings" android:title="@string/action_settings"></item>
+    <item android:id="@+id/exit" android:title="@string/exit"></item>
+  
+</menu>

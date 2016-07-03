@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <Button
+        android:id="@+id/Left"
+        android:layout_width="265dp"
+        android:layout_height="180dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="23dp"
+        android:text="Left" />
+
+    <Button
+        android:id="@+id/Right"
+        android:layout_width="265dp"
+        android:layout_height="180dp"
+        android:layout_alignParentRight="true"
+        android:text="Right" />
+
+    <Button
+        android:id="@+id/Shift"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/Left"
+        android:text="Shift" />
+
+</RelativeLayout>

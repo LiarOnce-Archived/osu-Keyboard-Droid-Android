@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">osu! Keyboard Droid</string>
+    <string name="action_settings">设置</string>
+    <string name="connectButton">连接osu! Keyboard Droid服务端</string>
+    <string name="ip">服务端IP：</string>
+    <string name="socket">服务端端口：</string>
+    <string name="sockethelp">服务端端口即你设置的端口
+        \n注意不是80，8080，3306等端口</string>
+    <string name="exit">退出</string>
+    <string name="exit_message">确定退出？
+        \n记得在服务端停止服务!记得在服务端停止服务!记得在服务端停止服务!
+        \n（重要的事说三遍）</string>
+    <string name="osustandard">osu! Standard</string>
+    <string name="taiko">Taiko</string>
+    <string name="catchbeat">Catch The Beat</string>
+    <string name="mania">osu! mania</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+    <string name="title_activity_control_keyboard">osu! Keyboard Droid</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
